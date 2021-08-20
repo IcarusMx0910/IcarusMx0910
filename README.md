@@ -1,8 +1,26 @@
-- 👋 Hi, I’m @IcarusMx0910
-- 👀 I’m interested in ... Angular, Firebase, Kotlin & Boostrap
-- 🌱 I’m currently learning ...Python, Django, Flask, JS, Vue & MongoDB
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+ Hello, my name is José Manuel Salazar
+Computer Systems engineer & Developer Beginner
+
+https://github.com/IcarusMx0910
+
+I'm a professional IT for more than five years.
+
+In 2009 i finish my carrer & i started with diferent jobs like a IT manager, however, after the COVID-19 Arrives in 2020, i started to learn and apply diferent
+develop tecnologies and languages like Python, Java, PHP, JavaScript Frameworks like Angular & VUE.
+
+Actually i keep learning only en web tecnologies like Angular, VUE, Django & Flask for find a job soon and share that knowledge with my hometown.
+
+Skills:
+IT manager Servers & Firewalls
+Python Java JavaScript
+Angular VUE
+Firebase MongoDB MySQL SQLite
+And more...
+
+Find me at:
+Twitch Discord
+Twitter Instagram Facebook
+LinkedIn
 
 <!---
 IcarusMx0910/IcarusMx0910 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
