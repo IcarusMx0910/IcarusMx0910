@@ -6,13 +6,13 @@ https://github.com/IcarusMx0910
 I'm a professional IT for more than eight years.
 
 In 2009 i finish my carrer & i started with diferent jobs like a IT manager, however, after the COVID-19 Arrives in 2020, i started to learn and apply diferent
-develop tecnologies and languages like Python, Java, PHP, JavaScript Frameworks like Angular & VUE.
+develop tecnologies and languages like Python, Java, Ruby, JavaScript Frameworks like Angular & VUE.
 
 Actually i keep learning only en web tecnologies like Angular, VUE, Django & Flask for find a job soon and share that knowledge with my hometown.
 
 Skills:
 IT manager Servers & Firewalls
-Python Java JavaScript
+Python Java Ruby JavaScript
 Angular VUE
 Firebase MongoDB MySQL SQLite
 And more...
